@@ -1,0 +1,73 @@
+body {
+    background: #f1f1f1;
+}
+#overview h1 {
+    font-size: 5em;
+    line-height: 1em;
+}
+.navbar-inner {
+    border-radius: 0px;
+    padding: 2px;
+}
+.navbar .brand {
+    color: #fff;
+    letter-spacing: 3px;
+}
+.page-thumbnail{
+	width:100px;
+	height:100px;
+	margin-top:10px;
+	float:right;
+	background:#ffffff;
+	border:solid 1px silver;
+	margin-right:10px;
+}
+.page-thumbnail:hover{
+ 
+	border:solid 1px gray;
+ 
+}
+ 
+.panel-head
+{
+	float:right;
+	padding:10px;
+	width:100%;
+	border-bottom:solid 1px gray; 
+}
+.container-fluid{
+	min-width:960px;
+	 
+}
+.left-panel{
+	margin-right:10px;
+	 min-width:160px;
+	 text-align:right;
+	height:750px;
+	background:#f1f1f1;
+	border-right:solid 1px silver;
+	margin-top:-18px;
+}
+
+.right-panel{
+	min-width:160px;
+	width:100%;
+	height:750px;
+	background:#f1f1f1;
+	border-left:solid 1px silver;
+	 
+	 
+}
+.logo {
+    color: #f1f1f1;
+}
+.footer {
+    border-top: dotted 1px #cfcfcf;
+    color: #555;
+    font-size: 12px;
+    letter-spacing: 1px;
+  
+ 	margin-top:20px;
+    padding: 15px;
+    position: relative;
+}
